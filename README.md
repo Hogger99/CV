@@ -9,7 +9,7 @@ Address: Flat 3, 24 Sweyn Road, Margate, Kent, CT9 2DH
 ## Summary
 I am an ambitious and collaborative junior developer who enjoys working and learning across the full tech stack.  
 Having recently completed the intensive 12 weeks of Makers Academy, I have grown from an interested amateur coder into a competent and confident junior developer.  
-I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in full stack development aswell as being open to learn other useful skills in business strategy and product / project management.
+I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in full stack development as well as being open to learn other useful skills in business strategy and product / project management.
 
 ## Projects
 
