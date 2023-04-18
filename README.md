@@ -4,8 +4,8 @@
 ## Contact Details
 
 Mobile: 07850 495170  
-Email:  
-Address: XXXX
+Email:  gshancock@btinternet.com  
+Address: Flat 3, 24 Sweyn Road, Margate, Kent, CT9 2DH
 
 ## Summary
 I am an ambitious and collaborative junior developer who enjoys working and learning across the full tech stack.  
